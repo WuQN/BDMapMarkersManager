@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="56dp"
+    android:layout_height="56dp"
+    android:background="@drawable/bg_map_marker"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/text_marker_count"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="2dp"
+        android:background="@drawable/ic_circle_green"
+        android:gravity="center"
+        android:text="123"
+        android:textStyle="bold"
+        android:textColor="#DFFF"
+        android:textSize="14sp" />
+
+</LinearLayout>
