@@ -4,4 +4,4 @@
 
 ### 演示效果如下
 
-![image](.\Screenrecorder.gif)
+![image](Screenrecorder.gif)
